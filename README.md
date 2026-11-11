@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing employee attrition and workforce trends across 1,470 employees, built to help HR teams see who is leaving and why.
 
-![Dashboard](dashboard.png)
+![Dashboard](HR_Analytics_Dashboard.png)
 
 ## Business Questions
 - What is the overall attrition rate, and how many employees left versus stayed?
